@@ -9,25 +9,25 @@
 
 ## windows
 
-* [<i class="fa fa-windows"></i> V2rayN](windows/v2rayn.md)
-* [<i class="fa fa-windows"></i> Clash for Windows](windows/clash-for-windows.md)
+* [V2rayN](windows/v2rayn.md)
+* [Clash for Windows](windows/clash-for-windows.md)
 
 ## iOS
 
-* [<i class="fa fa-apple"></i> Shadowrocket](ios/shadowrocket.md)
-* [<i class="fa fa-apple"></i> Quantumult](ios/quantumult.md)
-* [<i class="fa fa-apple"></i> QuantumultX](ios/quantumultx.md)
+* [Shadowrocket](ios/shadowrocket.md)
+* [Quantumult](ios/quantumult.md)
+* [QuantumultX](ios/quantumultx.md)
 
 ## Android
 
-* [<i class="fa fa-android"></i> V2rayNG](android/v2rayng.md)
+* [V2rayNG](android/v2rayng.md)
 
 ## MacOS
 
-* [<i class="none-finder"></i> ClashX](macos/clashx.md)
+* [ClashX](macos/clashx.md)
 
 ## Linux
 
-* [<i class="fa fa-linux"></i> Clash For Linux](linux/clash-for-linux.md)
-* [<i class="fa fa-linux"></i> V2rayL](linux/v2rayl.md)
+* [Clash For Linux](linux/clash-for-linux.md)
+* [V2rayL](linux/v2rayl.md)
 
