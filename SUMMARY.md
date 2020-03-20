@@ -9,7 +9,7 @@
 
 ## windows
 
-* [V2rayN](windows/v2rayn.md)
+* [V2RayN](windows/v2rayn.md)
 * [Clash for Windows](windows/clash-for-windows.md)
 
 ## iOS
@@ -20,7 +20,7 @@
 
 ## Android
 
-* [V2rayNG](android/v2rayng.md)
+* [V2RayNG](android/v2rayng.md)
 * [Clash For Android](android/clash-for-android.md)
 
 ## MacOS
