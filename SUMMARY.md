@@ -21,6 +21,7 @@
 ## Android
 
 * [V2rayNG](android/v2rayng.md)
+* [Clash For Android](android/clash-for-android.md)
 
 ## MacOS
 
