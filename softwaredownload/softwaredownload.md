@@ -3,7 +3,7 @@
 ### Windows客户端
 
 1. [Clash For Windows](https://yun.nonage.me/s/t9fe5mm9) 
-2. [V2RayN](https://yun.nonage.me/s/8k3ntpwt)
+2. [V2RayN](https://yun.nonage.me/s/aotvng82)
 
 ### Android客户端
 

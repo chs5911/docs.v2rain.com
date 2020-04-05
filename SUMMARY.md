@@ -10,6 +10,7 @@
 ## windows教程
 
 * [V2RayN](windows/v2rayn.md)
+* [Netch](windows/netch.md)
 * [Clash for Windows](windows/clash-for-windows.md)
 
 ## iOS教程
