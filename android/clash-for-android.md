@@ -1,12 +1,15 @@
 # Clash For Android
 ## 简介
+
 #### Clash For Android 是一款 Android 平台的网络代理软件，可以同时支持 SS 和 Vmess 协议。
 - 开发人员：[Kr328](https://github.com/Kr328)
 - 项目地址：[Github](https://github.com/Kr328/ClashForAndroid)
 - 下载链接：[ClashForAndroid](https://yun.nonage.me/s/7plknb7i)
+
 ##  系统要求
 - Android 7.0 及以上
 - 64 位 ROM (armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture)
+
 ## 如何使用
 #### 1. 下载应用[点击下载](https://yun.nonage.me/s/7plknb7i)
 #### 2. 安装完成后打开应用
