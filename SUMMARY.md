@@ -7,28 +7,32 @@
 * [充值购买AcmeCloud数据传输服务](chang-jian-wen-ti/chong-zhi-gou-mai-acmecloud-shu-ju-chuan-shu-fu-wu.md)
 * [常见问题FAQ](chang-jian-wen-ti/chang-jian-wen-ti-faq.md)
 
-## windows
+## windows教程
 
 * [V2RayN](windows/v2rayn.md)
 * [Clash for Windows](windows/clash-for-windows.md)
 
-## iOS
+## iOS教程
 
 * [Shadowrocket](ios/shadowrocket.md)
 * [Quantumult](ios/quantumult.md)
 * [QuantumultX](ios/quantumultx.md)
 
-## Android
+## Android教程
 
 * [V2RayNG](android/v2rayng.md)
 * [Clash For Android](android/clash-for-android.md)
 
-## MacOS
+## MacOS教程
 
 * [ClashX](macos/clashx.md)
 
-## Linux
+## Linux教程
 
 * [Clash For Linux](linux/clash-for-linux.md)
 * [V2rayL](linux/v2rayl.md)
+
+## 软件下载
+
+* [软件下载](softwaredownload/softwaredownload.md)
 
