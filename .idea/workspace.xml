@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4814e534-1b0f-499f-96e9-bd22172715b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/v2rayng.md" beforeDir="false" afterPath="$PROJECT_DIR$/android/v2rayng.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/softwaredownload/softwaredownload.md" beforeDir="false" afterPath="$PROJECT_DIR$/softwaredownload/softwaredownload.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows/v2rayn.md" beforeDir="false" afterPath="$PROJECT_DIR$/windows/v2rayn.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586072337063</updated>
-      <workItem from="1586072338229" duration="15671000" />
+      <workItem from="1586072338229" duration="18784000" />
     </task>
     <servers />
   </component>
