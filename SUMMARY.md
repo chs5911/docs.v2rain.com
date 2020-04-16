@@ -4,34 +4,38 @@
 
 ## 常见问题
 
-* [充值购买AcmeCloud数据传输服务](chang-jian-wen-ti/chong-zhi-gou-mai-acmecloud-shu-ju-chuan-shu-fu-wu.md)
-* [常见问题FAQ](chang-jian-wen-ti/chang-jian-wen-ti-faq.md)
+* [充值购买 AcmeCloud 数据传输服务](chang-jian-wen-ti/chong-zhi-gou-mai-acmecloud-shu-ju-chuan-shu-fu-wu.md)
+* [常见问题 FAQ](chang-jian-wen-ti/chang-jian-wen-ti-faq.md)
 
-## windows教程
+## windows
 
-* [V2RayN](windows/v2rayn.md)
-* [Netch](windows/netch.md)
-* [Clash for Windows](windows/clash-for-windows.md)
+* [在 V2RayN 上接入数据传输服务](windows/v2rayn.md)
+* [在 Netch 上接入数据传输服务](windows/netch.md)
+* [在 Clash for Windows 上接入数据传输服务](windows/clash-for-windows.md)
 
-## iOS教程
+## iOS
 
-* [Shadowrocket](ios/shadowrocket.md)
-* [Quantumult](ios/quantumult.md)
-* [QuantumultX](ios/quantumultx.md)
+* [在 Shadowrocket 上接入数据传输服务](ios/shadowrocket.md)
+* [在 Quantumult 上接入数据传输服务](ios/quantumult.md)
+* [在 QuantumultX 上接入数据传输服务](ios/quantumultx.md)
+* [在 Kitsunebi 上接入数据传输服务](ios/kitsunebi.md)
+* [在 Surge 上接入数据传输服务](ios/surge.md)
 
-## Android教程
+## Android
 
-* [V2RayNG](android/v2rayng.md)
-* [Clash For Android](android/clash-for-android.md)
+* [在 Surfboard 上接入数据传输服](android/surfboard.md)
+* [在 V2RayNG 上接入数据传输服](android/v2rayng.md)
+* [在 Clash For Android 上接入数据传输服](android/clash-for-android.md)
 
-## MacOS教程
+## MacOS
 
-* [ClashX](macos/clashx.md)
+* [在 Surge 上接入数据传输服务](macos/surge.md)
+* [在 ClashX 上接入数据传输服务](macos/clashx.md)
 
-## Linux教程
+## Linux
 
-* [Clash For Linux](linux/clash-for-linux.md)
-* [V2rayL](linux/v2rayl.md)
+* [在 Clash For Linux 上接入数据传输服务](linux/clash-for-linux.md)
+* [在 V2rayL 上接入数据传输服务](linux/v2rayl.md)
 
 ## 软件下载
 

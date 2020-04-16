@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4814e534-1b0f-499f-96e9-bd22172715b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/surfboard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/kitsunebi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/surge.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/v2rayng.md" beforeDir="false" afterPath="$PROJECT_DIR$/android/v2rayng.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/netch.md" beforeDir="false" afterPath="$PROJECT_DIR$/windows/netch.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +60,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586072337063</updated>
-      <workItem from="1586072338229" duration="18784000" />
+      <workItem from="1586072338229" duration="19383000" />
+      <workItem from="1586149691420" duration="780000" />
+      <workItem from="1586600238106" duration="630000" />
+      <workItem from="1587064158604" duration="1315000" />
     </task>
     <servers />
   </component>
@@ -68,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
