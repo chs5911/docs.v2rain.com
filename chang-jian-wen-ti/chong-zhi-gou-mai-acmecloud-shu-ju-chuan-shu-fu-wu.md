@@ -1,6 +1,6 @@
 # 购买AcmeCloud数据传输服务
 
-## 1. 打开[AcmeCloud官网](http://飞机.tech/),下拉页面选择产品。
+## 1. 打开 [AcmeCloud](http://飞机.tech/) 官网,下拉页面选择产品。
 ![](https://i.loli.net/2020/04/05/fSNzje2tBE6Zb5C.png)
 
 ## 2. 购买产品
