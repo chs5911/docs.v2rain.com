@@ -9,33 +9,33 @@
 
 ## windows
 
-* [在 V2RayN 上接入数据传输服务](windows/v2rayn.md)
-* [在 Netch 上接入数据传输服务](windows/netch.md)
-* [在 Clash for Windows 上接入数据传输服务](windows/clash-for-windows.md)
+* [在 V2RayN 上配置](windows/v2rayn.md)
+* [在 Netch 上配置](windows/netch.md)
+* [在 Clash for Windows 上配置](windows/clash-for-windows.md)
 
 ## iOS
 
-* [在 Shadowrocket 上接入数据传输服务](ios/shadowrocket.md)
-* [在 Quantumult 上接入数据传输服务](ios/quantumult.md)
-* [在 QuantumultX 上接入数据传输服务](ios/quantumultx.md)
-* [在 Kitsunebi 上接入数据传输服务](ios/kitsunebi.md)
-* [在 Surge 上接入数据传输服务](ios/surge.md)
+* [在 Shadowrocket 上配置](ios/shadowrocket.md)
+* [在 Quantumult 上配置](ios/quantumult.md)
+* [在 QuantumultX 上配置](ios/quantumultx.md)
+* [在 Kitsunebi 上配置](ios/kitsunebi.md)
+* [在 Surge 上配置](ios/surge.md)
 
 ## Android
 
-* [在 Surfboard 上接入数据传输服](android/surfboard.md)
-* [在 V2RayNG 上接入数据传输服](android/v2rayng.md)
-* [在 Clash For Android 上接入数据传输服](android/clash-for-android.md)
+* [在 Surfboard 上配置](android/surfboard.md)
+* [在 V2RayNG 上配置](android/v2rayng.md)
+* [在 Clash For Android 上配置](android/clash-for-android.md)
 
 ## MacOS
 
-* [在 Surge 上接入数据传输服务](macos/surge.md)
-* [在 ClashX 上接入数据传输服务](macos/clashx.md)
+* [在 Surge 上配置](macos/surge.md)
+* [在 ClashX 上配置](macos/clashx.md)
 
 ## Linux
 
-* [在 Clash For Linux 上接入数据传输服务](linux/clash-for-linux.md)
-* [在 V2rayL 上接入数据传输服务](linux/v2rayl.md)
+* [在 Clash For Linux 上配置](linux/clash-for-linux.md)
+* [在 V2rayL 上配置](linux/v2rayl.md)
 
 ## 软件下载
 
