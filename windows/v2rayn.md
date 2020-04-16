@@ -14,34 +14,34 @@
 
 2. 解压并打开应用
 
-![v2n01](https://i.loli.net/2020/04/05/IelLtWybfPJsrpS.png)
+![](https://i.loli.net/2020/04/05/IelLtWybfPJsrpS.png)
  
 - 单击状态栏图标打开**V2RayN**主界面
 
-![v2n02](https://i.loli.net/2020/04/05/riY7G6J5L3WnyDM.png)
+![](https://i.loli.net/2020/04/05/riY7G6J5L3WnyDM.png)
 
 - 主界面点击添加订阅
 
-![v2n03](https://i.loli.net/2020/04/05/vlqhKVsiAeIbc7D.png)
+![](https://i.loli.net/2020/04/05/vlqhKVsiAeIbc7D.png)
 
 - 导入订阅
 
-![v2n04](https://i.loli.net/2020/04/05/6dURzSNfFPXgEic.png)
+![](https://i.loli.net/2020/04/05/6dURzSNfFPXgEic.png)
 
 - 更新订阅获取节点
 
-![v2n05](https://i.loli.net/2020/04/05/uQFtp31AlqBmTRW.png)
+![](https://i.loli.net/2020/04/05/uQFtp31AlqBmTRW.png)
 
 - 更新订阅成功
 
-![v2n06](https://i.loli.net/2020/04/05/QmaIpTkfGu1glj4.png)
+![](https://i.loli.net/2020/04/05/QmaIpTkfGu1glj4.png)
 
 - 开启代理
 
-![v2n07](https://i.loli.net/2020/04/05/zFm4e6xIESYOAh8.png)
+![](https://i.loli.net/2020/04/05/zFm4e6xIESYOAh8.png)
 
 ## 大功告成
-![v2n08](https://i.loli.net/2020/04/05/9fHyZPO8VU4wlBj.png)
+![](https://i.loli.net/2020/04/05/9fHyZPO8VU4wlBj.png)
 
 
 
